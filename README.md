@@ -1,4 +1,10 @@
+###Install
 ```
+$ npm install sql-strip-comments --save
+```
+
+###Usage
+```js
 const strip = require('sql-strip-comments');
 
 let sql='SELECT * FROM customers; -- test comments';
