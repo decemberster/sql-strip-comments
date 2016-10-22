@@ -1,7 +1,7 @@
 sql-strip-comments
 ==================
 
-```js
+```
 
 const strip = require('sql-strip-comments');
 
