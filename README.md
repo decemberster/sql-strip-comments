@@ -1,4 +1,5 @@
-# sql-strip-comments
+sql-strip-comments
+==================
 
 ```js
 
