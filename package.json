@@ -1,7 +1,7 @@
 {
   "name": "sql-strip-comments",
   "version": "0.0.11",
-  "description": "",
+  "description": "strip sql comments",
   "main": "index.js",
   "directories": {
     "test": "test"
