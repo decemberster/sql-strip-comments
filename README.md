@@ -1,8 +1,4 @@
-sql-strip-comments
-==================
-
 ```
-
 const strip = require('sql-strip-comments');
 
 let sql='SELECT * FROM customers; -- test comments';
