@@ -1,6 +1,7 @@
 # sql-strip-comments
 
 ```js
+
 const strip = require('sql-strip-comments');
 
 let sql='SELECT * FROM customers; -- test comments';
