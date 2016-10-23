@@ -1,4 +1,4 @@
->[![npm](https://img.shields.io/npm/v/sql-strip-comments.svg)]() [![npm](https://img.shields.io/npm/dm/sql-strip-comments.svg)]()
+>[![npm](https://img.shields.io/npm/v/sql-strip-comments.svg)](https://www.npmjs.com/package/sql-strip-comments) [![npm](https://img.shields.io/npm/dm/sql-strip-comments.svg)](https://www.npmjs.com/package/sql-strip-comments)
 
 ### Install
 ```
