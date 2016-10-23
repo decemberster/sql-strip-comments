@@ -1,3 +1,5 @@
+>[![npm](https://img.shields.io/npm/v/sql-strip-comments.svg)]() [![npm](https://img.shields.io/npm/dm/sql-strip-comments.svg)]()
+
 ### Install
 ```
 $ npm install sql-strip-comments --save
