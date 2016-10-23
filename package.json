@@ -31,5 +31,5 @@
   "dependencies": {
     "debug": "^2.2.0"
   },
-  "runkitExample": "example.js"
+  "runkitExampleFilename": "example.js"
 }
