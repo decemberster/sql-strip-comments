@@ -1,6 +1,6 @@
 {
   "name": "sql-strip-comments",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "description": "strip sql comments",
   "main": "index.js",
   "directories": {
