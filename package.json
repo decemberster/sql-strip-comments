@@ -1,7 +1,7 @@
 {
   "name": "sql-strip-comments",
   "version": "0.0.20",
-  "description": "strip sql comments",
+  "description": "Remove line and block comments from sql code",
   "main": "index.js",
   "directories": {
     "test": "test"

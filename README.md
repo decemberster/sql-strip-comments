@@ -1,5 +1,7 @@
 >[![npm](https://img.shields.io/npm/v/sql-strip-comments.svg)](https://www.npmjs.com/package/sql-strip-comments) [![npm](https://img.shields.io/npm/dm/sql-strip-comments.svg)](https://www.npmjs.com/package/sql-strip-comments)
 
+Remove line (```-- comment text \n```) and block comments (```\* comment text *\```) from sql code. Comments in string literals are not treated as comments. Nested block comments are not supported.
+
 ### Install
 ```
 $ npm install sql-strip-comments --save
